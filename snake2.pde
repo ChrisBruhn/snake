@@ -14,7 +14,7 @@ int speed=8;
 int score=0;
 
 void setup(){
-// søtter størrelsen på canvas og framerate så det ikke går alt for stærkt. Jeg initierer slangen og placerer goodie
+// sætter størrelsen på canvas og framerate så det ikke går alt for stærkt. Jeg initierer slangen og placerer goodie
   size(600,600);
   gameInit();  
 }
